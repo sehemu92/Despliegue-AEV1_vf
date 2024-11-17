@@ -1,0 +1,25 @@
+html{
+    background-color: rgb(61, 59, 59);
+}
+
+body{
+    margin: 5% 25% 0 25%;
+    border: 1px black solid;
+    width: 50%;
+    background-color: white;
+    box-shadow: 0px 10px 25px rgb(255, 255, 255);
+}
+
+h1, p, form{
+    text-align: center;
+}
+
+h1{
+    text-decoration: underline red;
+}
+
+button:hover{
+    background-color: rgb(200, 221, 11);
+    font-weight: bold;
+    
+}
